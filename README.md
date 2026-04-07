@@ -1,5 +1,5 @@
 
-Hi, I'm Raghav Baijal 👋  
+Hi, I'm Raghav Baijal  
 
 🎓 Computer Science Student at SRM University, Delhi-NCR  
 💻 Passionate about Full Stack Development, AI, and Algorithmic Trading  
