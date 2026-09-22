@@ -1,8 +1,8 @@
 
 Hi, I'm Raghav Baijal  
 
-🎓 Computer Science Student at SRM University, Delhi-NCR  
-💻 Passionate about Full Stack Development, AI, and Algorithmic Trading  
+🎓 Computer Science Student at SRM University
+💻 Passionate about Full Stack Development, AI, and Algorithmic Trading 
 📊 Building data-driven applications and automation tools  
 🚀 Currently working on AI-powered finance and trading projects.<br><br>Tech Interests:<br><br>Algorithmic Trading<br>Artificial Intelligence<br>System Design<br>Full-Stack Development
 
